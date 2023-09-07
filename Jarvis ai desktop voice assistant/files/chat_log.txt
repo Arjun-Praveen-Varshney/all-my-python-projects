@@ -1,0 +1,8 @@
+You: how are you brother 
+Jarvis: I'm doing great, thank you for asking. How are you?
+You: good morning brother how are you today 
+Jarvis: Good morning! I'm doing well, thank you. How can I help you?
+You: play football 
+Jarvis: I'm sorry, I'm not able to play football. However, I can help you find a game or a team to join. Would you like me to do that?
+You: brother what was the result of the icc world cup test 
+Jarvis: The ICC World Cup Test was won by India, who beat New Zealand by an innings and 46 runs.
